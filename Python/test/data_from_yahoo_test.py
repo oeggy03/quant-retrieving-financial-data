@@ -1,6 +1,6 @@
 import unittest
 
-from Python.scripts.data_from_yahoo import fetch_yfinance_data
+from Python.src.info_retreival.data_from_yahoo import fetch_yfinance_data
 
 
 class TestFetchYFinanceData(unittest.TestCase):
